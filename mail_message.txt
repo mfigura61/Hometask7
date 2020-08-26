@@ -1,0 +1,33 @@
+Return-Path: <mike@mike-UL20A>
+X-Original-To: root@localhost
+Delivered-To: root@localhost
+Received: by mike-UL20A (Postfix, from userid 1000)
+	id 5016C160655; Wed, 26 Aug 2020 15:49:25 +0300 (MSK)
+Subject: NGINX Log Info
+To: <root@localhost>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200826124925.5016C160655@mike-UL20A>
+Date: Wed, 26 Aug 2020 15:49:25 +0300 (MSK)
+From: mike <mike@mike-UL20A>
+
+Данные за период:-15/Aug/2019:00:25:46+0300
+
+
+Часто запрашиваемые адреса:
+Количество запросов:116 URL:/wp-login.php
+Количество запросов:74 URL:/
+Количество запросов:57 URL:/xmlrpc.php
+Количество запросов:19 URL:/robots.txt
+Количество запросов:11 URL:/favicon.ico
+
+Частые ошибки:
+    498 200
+     95 301
+     51 404
+     18 400
+      3 500
+      2 499
+      1 405
+      1 403
+      1 304
+
